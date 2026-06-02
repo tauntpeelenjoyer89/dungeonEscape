@@ -8,5 +8,5 @@ int main () {
 	heroi.apresentar();
 	return 0;
 	
-	
+	Inimigo goblin("Goblin", 50,5, "goblin");
 }
